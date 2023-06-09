@@ -1,0 +1,4 @@
+"{\"seaddress\":{\"addressLine1\":\"Lenina\",\"addressLine2\":\"\",\"city\":\"Moscow\",\"countr"
+"y\":\"fr\",\"postalCode\":\"\",\"state\":1},\"secustomerName\":\"Kirill Kiriillov\",\"secustom"
+"erPhone\":\"89297578383\",\"senumberOfProducts\":2,\"setransactionType\":\"SHIPPING_COST\",\"s"
+"essionId\":\"08B22B121D4D4D8171B0A2BDF6E3025C\"}"

@@ -1,0 +1,145 @@
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Action.c(44):     last-modified: Tue, 07 Feb 2023 11:34:04 GMT\r\n
+Action.c(44):     cache-control: max-age=600\r\n
+Action.c(44):     expires: Tue, 06 Jun 2023 17:03:02 GMT\r\n
+Action.c(44):     vary: accept-encoding\r\n
+Action.c(44):     content-encoding: gzip\r\n
+Action.c(44):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(44):     \r\n
+Action.c(44): t=877135ms: 8192-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=174)
+Action.c(44): t=877135ms: 6854-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=174)
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Action.c(44):     px;right:10px;border-top:solid 4px #5e5e5e;border-left:solid 4px transparent;border-right:
+Action.c(44):     solid 4px transparent}.sec-view div label.animated{top:2px;transform:scale(0.8,1);padding:
+Action.c(44):     0 3px;margin:5px 0;transition:all .6s ease,transform .2s ease;color:#2a2a2a}.sec-view div 
+Action.c(44):     label.invalid{color:#ff454f;top:51px;font-size:13px}.sec-view div input,.sec-view div sele
+Action.c(44):     ct{margin:4px 0 0;outline:0;cursor:text;border:0;border-bottom:1px solid #CECCCC;transitio
+Action.c(44):     n:border-bottom .4s ease}.sec-view div select{width:100%;font-size:14px;padding:2px 0}.sec
+Action.c(44):     -view div textarea{margin:0;outline:0;cursor:text;border:0;border
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(41): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(44): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(44): t=2427300ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(44): t=2434465ms: Connected socket [0] from 192.168.1.140:6977 to 54.227.55.203:443 in 7165 ms  	[MsgId: MMSG-26000]
+Action.c(44): t=2434467ms: Trying to set SNI with servername www.advantageonlineshopping.com  	[MsgId: MMSG-26000]
+Action.c(44): t=2434467ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
+Action.c(44): Error -27721: Step download timeout (120 seconds) has expired when downloading resource "https://www.advantageonlineshopping.com/"  	[MsgId: MERR-27721]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+Action.c(44):     \x95\xD5e\xBE?\xBE\n
+Action.c(44):     \xEC\x1E\xACvM\xF2\x16j\xF9n\xC8\xAB\xB0\xAC\xA4\xA4\xAC-y\xAEC%\x13\xD7\xE3\x92\xB5j\x92J
+Action.c(44):     \xF1\xB3\xD3\x93\xE3>\xC3\x9B-e\xCE\x86\xC1\xCD\x96\x19l\x05\\\xD7\xC5\xB9t\xCB\xA8 N\x81=
+Action.c(44):     \x18\x97\xA9!\xD3V\xC2e\xCF\xDE\x95\x8C\xBF~K\xB8O>\xAE\xBB\xE72e\xBC\xA3\xDA\xCD\xF9\x01\xE3
+Action.c(44):     :b@F\x7F\x90\xE8\xA5#]\xDB&\x0EJ\xE8)\x14\x92J{\xEF\xB5\xAA\xDD\xAE[\xE4\xF4 a\xADX+\xF8\x9B
+Action.c(44):     t:-\xA3\xAC\xD3\x01
+Action.c(44): t=2529329ms: Request done "https://www.googletagmanager.com/gtag/js?id=G-TBPYED8WSW"  	[MsgId: MMSG-26000]
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Action.c(44): t=2853415ms: 2717-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=75)
+Action.c(44): t=2853415ms: Request done "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300"  	[MsgId: MMSG-26000]
+Action.c(44): t=2854153ms: 8192-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1301" (RelFrameId=, Internal ID=77)
+Action.c(44): t=2854153ms: 1936-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1301" (RelFrameId=, Internal ID=77)
+Action.c(44): t=2854153ms: Request done "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1301"  	[MsgId: MMSG-26000]
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 13.	[MsgId: MMSG-10545]
+Action.c(44):     2a;background-color:transparent;color:#2a2a2a}button:hover{color:#fff;background-color:#2a
+Action.c(44):     2a2a}.a-button,.a-link{border:solid 2px #2a2a2a;color:#2a2a2a;font-size:12px;display:inlin
+Action.c(44):     e-block;background-color:transparent;text-decoration:none;transition:all .3s ease}.a-butto
+Action.c(44):     n{border:solid 2px #2a2a2a;padding:8px 13px;letter-spacing:.5px;font-weight:600}.a-link{bo
+Action.c(44):     rder:solid 1px transparent!important}.a-link.buttonDisable{border:solid 1px transparent!im
+Action.c(44):     portant}.a-link.buttonDisable:hover{border:solid 1px transparent!important}.a-button:hover
+Action.c(44):     {color:#fff
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 15.	[MsgId: MMSG-10545]
+Action.c(41): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(44): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(44): t=3504320ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(44): t=3504491ms: Connected socket [0] from 192.168.1.140:7831 to 54.227.55.203:443 in 171 ms  	[MsgId: MMSG-26000]
+Action.c(44): t=3504493ms: Trying to set SNI with servername www.advantageonlineshopping.com  	[MsgId: MMSG-26000]
+Action.c(44): t=3504493ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
+Action.c(44): Error -27721: Step download timeout (120 seconds) has expired when downloading resource "https://www.advantageonlineshopping.com/"  	[MsgId: MERR-27721]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 15.	[MsgId: MMSG-10545]
+Action.c(44):     d-size:50%;background-position:90% 49%}.rowSecti
+Action.c(44): t=3542046ms: 432-byte DECODED response body for "https://www.advantageonlineshopping.com/css/main.min.css" (RelFrameId=, Internal ID=420)
+Action.c(44):     on>div.emptyCells{border:0}.rowSection>div.twoRows{position:absolute;top:0;bottom:0;height
+Action.c(44):     :100%;padding-top:0;width:32%;background-position:top center}.categoryCell{overflow:hidden
+Action.c(44):     }.categoryCell:hover .shop_now_slider{bottom:0}.categoryCell:hover .shop_now_slider .shop_
+Action.c(44):     now{padding:26px 28px}.categoryCell.laptopImg:hover .shop_now_slider .shop_now{color:#2a2a
+Action.c(44):     2a}.rowSection>div.twoRows span,.categoryCell.laptopImg span{color:#fff}
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+Action.c(223):     Sec-Fetch-Mode = cors
+Action.c(223):     Sec-Fetch-Site = same-origin
+Action.c(223):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
+Action.c(223):     ko) Chrome/113.0.0.0 Safari/537.36
+Action.c(223):     Accept-Encoding = gzip, deflate, br
+Action.c(223):     Accept-Language = ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Action.c(223):     Accept = */*
+Action.c(223):     cookie = _gid=GA1.2.852016575.1685877169; _ga=GA1.1.823130365.1685877168; _ga_TBPYED8WSW=G
+Action.c(223):     S1.1.1685888979.3.1.1685888992.0.0.0; userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22
+Action.c(223):     %3A%5B%5D%7D; _gat=1
+Action.c(223): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Action.c(44):     n:/json/},responseFields:{xml:"responseXML",text:"responseText",json:"responseJSON"},conve
+Action.c(44):     rters:{"* text":String,"text html":!0,"text json":n.parseJSON,"text xml":n.parseXML},flatO
+Action.c(44):     ptions:{url:!0,context:!0}},ajaxSetup:function(a,b){return b?sb(sb(a,n.ajaxSettings),b):sb
+Action.c(44):     (n.ajaxSettings,a)},ajaxPrefilter:qb(lb),ajaxTransport:qb(mb),ajax:function(a,b){"object"=
+Action.c(44):     =typeof a&&(b=a,a=void 0),b=b||{};var c,d,e,f,g,h,i,j,k=n.ajaxSetup({},b),l=k.context||k,m
+Action.c(44):     =k.context&&(l.nodeType||l.jquery)?n(l):n.event,o=n.Deferred(),p=n.Callbacks("once memory"
+Action.c(44):     ),q=k.statusCode||{},r={},s={},t=0,u="canceled",v={readyState:0
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 34.	[MsgId: MMSG-10545]
+Action.c(44):     @media screen and (max-width:768px){#special_offer_items>div{height:160px}#div-special-off
+Action.c(44):     er span{font-size:19px}#div-special-offer h1{font-size:15px}#div-special-offer p{font-size
+Action.c(44):     :10px}}@media screen and (max-width:480px){.container{display:block}.rowSection{display:bl
+Action.c(44):     ock}.rowSection>div{display:block;width:100%;padding-top:62%}.rowSection>div.twoRows{posit
+Action.c(44):     ion:relative;top:auto;bottom:auto;height:100%;width:100%;background-position:top center}.r
+Action.c(44):     owSection>div{padding-top:62%}.rowSection>div.twoRows{padding-top:73%}.rowSection>div.twoR
+Action.c(44):     ows span{color:#2a2a2a}.rowSection .emptyCell{display:none}#img-special-offer{
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 31.	[MsgId: MMSG-10545]
+Action.c(44): t=6127053ms: 8174-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=977)
+Action.c(44): t=6139529ms: 18-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=977)
+Action.c(44): t=6139529ms: 8192-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=977)
+Action.c(44): t=6139529ms: 5448-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=977)
+Action.c(44): t=6139529ms: Request done "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300"  	[MsgId: MMSG-26000]
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\User\Desktop\itog\card
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\user\desktop\itog\card\\logfile.log
+c:\users\user\desktop\itog\card\\combined_card.c
+c:\users\user\desktop\itog\card\\pre_cci.c

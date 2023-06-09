@@ -1,0 +1,137 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(44): t=99534ms: 4130-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=9)
+Action.c(44): Warning -27760: Request "https://www.advantageonlineshopping.com/main.min.js" failed  	[MsgId: MWAR-27760]
+Action.c(44): Warning -27760: Request "https://www.advantageonlineshopping.com/css/main.min.css" failed  	[MsgId: MWAR-27760]
+Action.c(44): t=100237ms: 8192-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=9)
+Action.c(44): t=100237ms: 8148-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=9)
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10.	[MsgId: MMSG-10545]
+Action.c(44):     x-xss-protection: 1; mode=block\r\n
+Action.c(44):     x-frame-options: DENY\r\n
+Action.c(44):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(44):     \r\n
+Action.c(44): t=2671925ms: 7910-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1302" (RelFrameId=, Internal ID=307)
+Action.c(44): t=2674598ms: 4088-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1302" (RelFrameId=, Internal ID=307)
+Action.c(44): t=2695975ms: 8184-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1302" (RelFrameId=, Internal ID=307)
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 22.	[MsgId: MMSG-10545]
+Action.c(203): Connection to www.advantageonlineshopping.com:443 closed after being inactive for 59266 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(203): t=62680404ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(203): Connection to www.googletagmanager.com:443 closed after being inactive for 59266 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(203): t=62680405ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(203): t=62680405ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(203): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10065] No Route to Host  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(38): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(38): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(41): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(41): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(44): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(44): Error -27794: Could not resolve address of host www.advantageonlineshopping.com  	[MsgId: MERR-27794]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 22.	[MsgId: MMSG-10545]
+Action.c(156): Notify: Parameter Substitution: parameter "login" =  "Kirill"	[MsgId: MMSG-13992]
+Action.c(156): Connection to www.advantageonlineshopping.com:443 closed after being inactive for 59260 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(156): t=62682321ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(156): Connection to www.googletagmanager.com:443 closed after being inactive for 59260 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(156): t=62682321ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(156): t=62682321ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(156): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10065] No Route to Host  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 15.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 15.	[MsgId: MMSG-10545]
+Action.c(156): Notify: Parameter Substitution: parameter "login" =  "Kirill"	[MsgId: MMSG-13992]
+Action.c(156): Connection to www.advantageonlineshopping.com:443 closed after being inactive for 59293 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(156): t=62724793ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(156): Connection to www.googletagmanager.com:443 closed after being inactive for 59293 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(156): Notify: Parameter Substitution: parameter "login" =  "Kirill"	[MsgId: MMSG-13992]
+Action.c(156): Connection to www.advantageonlineshopping.com:443 closed after being inactive for 59291 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(156): t=62721164ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(156): Connection to www.googletagmanager.com:443 closed after being inactive for 59291 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(156): t=62721164ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(156): t=62721164ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(156): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10053] Software caused connection abort  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Action.c(156): t=62724793ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(156): t=62724793ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(156): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10053] Software caused connection abort  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(38): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(38): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(41): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(41): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(38): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(38): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(41): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(41): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(44): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(44): Error -27794: Could not resolve address of host www.advantageonlineshopping.com  	[MsgId: MERR-27794]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(44): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(44): Error -27794: Could not resolve address of host www.advantageonlineshopping.com  	[MsgId: MERR-27794]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Action.c(44): t=63184259ms: 7910-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=796)
+Action.c(44): t=63184389ms: 4088-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1301" (RelFrameId=, Internal ID=798)
+Action.c(44): t=63192195ms: 4088-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300" (RelFrameId=, Internal ID=796)
+Action.c(44): t=63198572ms: 5682-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1301" (RelFrameId=, Internal ID=798)
+Action.c(44): t=63219275ms: 1837-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1301" (RelFrameId=, Internal ID=798)
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Action.c(44):     last-modified: Wed, 31 May 2023 08:27:08 GMT\r\n
+Action.c(44):     cache-control: max-age=600\r\n
+Action.c(44):     expires: Tue, 06 Jun 2023 09:57:43 GMT\r\n
+Action.c(44):     vary: accept-encoding\r\n
+Action.c(44):     content-encoding: gzip\r\n
+Action.c(44):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(44):     \r\n
+Action.c(44): t=64263644ms: 1890-byte response body for "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1302" (RelFrameId=, Internal ID=794)
+Action.c(44): t=64263644ms: Request done "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1302"  	[MsgId: MMSG-26000]
+Action.c(44): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 32.	[MsgId: MMSG-10545]
+Action.c(41): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(44): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(44): t=64187457ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(44): t=64188610ms: Connected socket [0] from 192.168.1.140:3008 to 54.227.55.203:443 in 1145 ms  	[MsgId: MMSG-26000]
+Action.c(44): t=64188610ms: Trying to set SNI with servername www.advantageonlineshopping.com  	[MsgId: MMSG-26000]
+Action.c(44): t=64188610ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
+Action.c(44): Error -27721: Step download timeout (120 seconds) has expired when downloading resource "https://www.advantageonlineshopping.com/"  	[MsgId: MERR-27721]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

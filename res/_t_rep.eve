@@ -1,0 +1,253 @@
+28 11 1686069586 2 135296088 -1817930480 1699572
+28 4 mice 1 1686069587 0 mice localhost 0 1
+28 10 localhost 28 0 0
+28 0 mice 1 1686069587 0 localhost 0
+28 8 mice 1  0 0
+28 2 mice 1 1686069587 0 p 0 0
+28 4 special 1 1686069587 0 special localhost 0 1
+28 0 special 1 1686069587 0 localhost 0
+28 8 special 1  0 0
+28 2 special 1 1686069587 0 p 0 0
+28 4 card 1 1686069588 0 card localhost 0 1
+28 0 card 1 1686069588 0 localhost 0
+28 8 card 1  0 0
+28 2 card 1 1686069588 0 p 0 0
+28 4 mice 2 1686069589 0 mice localhost 0 1
+28 0 mice 2 1686069589 0 localhost 0
+28 8 mice 2  0 0
+28 2 mice 2 1686069589 0 p 0 0
+28 4 special 2 1686069590 0 special localhost 0 1
+28 0 special 2 1686069590 0 localhost 0
+28 8 special 2  0 0
+28 2 special 2 1686069590 0 p 0 0
+28 4 mice 3 1686069591 0 mice localhost 0 1
+28 0 mice 3 1686069591 0 localhost 0
+28 8 mice 3  0 0
+28 2 mice 3 1686069591 0 p 0 0
+28 4 special 3 1686069592 0 special localhost 0 1
+28 0 special 3 1686069592 0 localhost 0
+28 8 special 3  0 0
+28 2 special 3 1686069592 0 p 0 0
+28 4 card 2 1686069593 0 card localhost 0 1
+28 0 card 2 1686069593 0 localhost 0
+28 8 card 2  0 0
+28 2 card 2 1686069593 0 p 0 0
+28 4 mice 4 1686069594 0 mice localhost 0 1
+28 0 mice 4 1686069594 0 localhost 0
+28 8 mice 4  0 0
+28 2 mice 4 1686069594 0 p 0 0
+28 4 special 4 1686069595 0 special localhost 0 1
+28 0 special 4 1686069596 0 localhost 0
+28 8 special 4  0 0
+28 2 special 4 1686069596 0 p 0 0
+28 4 mice 5 1686070796 0 mice localhost 0 1
+28 0 mice 5 1686070796 0 localhost 0
+28 8 mice 5  0 0
+28 2 mice 5 1686070796 0 p 0 0
+28 4 special 5 1686070797 0 special localhost 0 1
+28 0 special 5 1686070797 0 localhost 0
+28 8 special 5  0 0
+28 2 special 5 1686070797 0 p 0 0
+28 4 card 3 1686070798 0 card localhost 0 1
+28 0 card 3 1686070798 0 localhost 0
+28 8 card 3  0 0
+28 2 card 3 1686070798 0 p 0 0
+28 4 mice 6 1686070799 0 mice localhost 0 1
+28 0 mice 6 1686070799 0 localhost 0
+28 8 mice 6  0 0
+28 2 mice 6 1686070799 0 p 0 0
+28 4 special 6 1686070800 0 special localhost 0 1
+28 0 special 6 1686070800 0 localhost 0
+28 8 special 6  0 0
+28 2 special 6 1686070800 0 p 0 0
+28 4 mice 7 1686070801 0 mice localhost 0 1
+28 0 mice 7 1686070801 0 localhost 0
+28 8 mice 7  0 0
+28 2 mice 7 1686070801 0 p 0 0
+28 4 special 7 1686070802 0 special localhost 0 1
+28 0 special 7 1686070802 0 localhost 0
+28 8 special 7  0 0
+28 2 special 7 1686070802 0 p 0 0
+28 4 card 4 1686070803 0 card localhost 0 1
+28 0 card 4 1686070803 0 localhost 0
+28 8 card 4  0 0
+28 2 card 4 1686070803 0 p 0 0
+28 4 mice 8 1686070804 0 mice localhost 0 1
+28 0 mice 8 1686070804 0 localhost 0
+28 8 mice 8  0 0
+28 2 mice 8 1686070804 0 p 0 0
+28 4 special 8 1686070805 0 special localhost 0 1
+28 0 special 8 1686070805 0 localhost 0
+28 8 special 8  0 0
+28 2 special 8 1686070805 0 p 0 0
+28 4 mice 9 1686072005 0 mice localhost 0 1
+28 0 mice 9 1686072005 0 localhost 0
+28 8 mice 9  0 0
+28 2 mice 9 1686072005 0 p 0 0
+28 4 special 9 1686072006 0 special localhost 0 1
+28 0 special 9 1686072006 0 localhost 0
+28 8 special 9  0 0
+28 2 special 9 1686072006 0 p 0 0
+28 4 card 5 1686072007 0 card localhost 0 1
+28 0 card 5 1686072007 0 localhost 0
+28 8 card 5  0 0
+28 2 card 5 1686072007 0 p 0 0
+28 4 mice 10 1686072008 0 mice localhost 0 1
+28 0 mice 10 1686072008 0 localhost 0
+28 8 mice 10  0 0
+28 2 mice 10 1686072008 0 p 0 0
+28 4 special 10 1686072009 0 special localhost 0 1
+28 0 special 10 1686072009 0 localhost 0
+28 8 special 10  0 0
+28 2 special 10 1686072009 0 p 0 0
+28 4 mice 11 1686072010 0 mice localhost 0 1
+28 0 mice 11 1686072010 0 localhost 0
+28 8 mice 11  0 0
+28 2 mice 11 1686072010 0 p 0 0
+28 4 special 11 1686072011 0 special localhost 0 1
+28 0 special 11 1686072011 0 localhost 0
+28 8 special 11  0 0
+28 2 special 11 1686072011 0 p 0 0
+28 4 card 6 1686072012 0 card localhost 0 1
+28 0 card 6 1686072012 0 localhost 0
+28 8 card 6  0 0
+28 2 card 6 1686072012 0 p 0 0
+28 4 mice 12 1686072013 0 mice localhost 0 1
+28 0 mice 12 1686072014 0 localhost 0
+28 8 mice 12  0 0
+28 2 mice 12 1686072014 0 p 0 0
+28 4 special 12 1686072015 0 special localhost 0 1
+28 0 special 12 1686072015 0 localhost 0
+28 8 special 12  0 0
+28 2 special 12 1686072015 0 p 0 0
+28 4 mice 13 1686073215 0 mice localhost 0 1
+28 0 mice 13 1686073215 0 localhost 0
+28 8 mice 13  0 0
+28 2 mice 13 1686073215 0 p 0 0
+28 4 special 13 1686073216 0 special localhost 0 1
+28 0 special 13 1686073216 0 localhost 0
+28 8 special 13  0 0
+28 2 special 13 1686073216 0 p 0 0
+28 4 card 7 1686073217 0 card localhost 0 1
+28 0 card 7 1686073217 0 localhost 0
+28 8 card 7  0 0
+28 2 card 7 1686073217 0 p 0 0
+28 4 mice 14 1686073218 0 mice localhost 0 1
+28 0 mice 14 1686073218 0 localhost 0
+28 8 mice 14  0 0
+28 2 mice 14 1686073218 0 p 0 0
+28 4 special 14 1686073219 0 special localhost 0 1
+28 0 special 14 1686073219 0 localhost 0
+28 8 special 14  0 0
+28 2 special 14 1686073219 0 p 0 0
+28 4 mice 15 1686073220 0 mice localhost 0 1
+28 0 mice 15 1686073220 0 localhost 0
+28 8 mice 15  0 0
+28 2 mice 15 1686073220 0 p 0 0
+28 4 special 15 1686073221 0 special localhost 0 1
+28 0 special 15 1686073221 0 localhost 0
+28 8 special 15  0 0
+28 2 special 15 1686073221 0 p 0 0
+28 4 card 8 1686073222 0 card localhost 0 1
+28 0 card 8 1686073222 0 localhost 0
+28 8 card 8  0 0
+28 2 card 8 1686073222 0 p 0 0
+28 4 mice 16 1686073223 0 mice localhost 0 1
+28 0 mice 16 1686073223 0 localhost 0
+28 8 mice 16  0 0
+28 2 mice 16 1686073223 0 p 0 0
+28 4 special 16 1686073224 0 special localhost 0 1
+28 0 special 16 1686073224 0 localhost 0
+28 8 special 16  0 0
+28 2 special 16 1686073224 0 p 0 0
+28 4 mice 17 1686074424 0 mice localhost 0 1
+28 0 mice 17 1686074424 0 localhost 0
+28 8 mice 17  0 0
+28 2 mice 17 1686074424 0 p 0 0
+28 4 special 17 1686074425 0 special localhost 0 1
+28 0 special 17 1686074425 0 localhost 0
+28 8 special 17  0 0
+28 2 special 17 1686074425 0 p 0 0
+28 4 card 9 1686074426 0 card localhost 0 1
+28 0 card 9 1686074426 0 localhost 0
+28 8 card 9  0 0
+28 2 card 9 1686074426 0 p 0 0
+28 4 mice 18 1686074427 0 mice localhost 0 1
+28 0 mice 18 1686074427 0 localhost 0
+28 8 mice 18  0 0
+28 2 mice 18 1686074427 0 p 0 0
+28 4 special 18 1686074428 0 special localhost 0 1
+28 0 special 18 1686074428 0 localhost 0
+28 8 special 18  0 0
+28 2 special 18 1686074428 0 p 0 0
+28 4 mice 19 1686074429 0 mice localhost 0 1
+28 0 mice 19 1686074429 0 localhost 0
+28 8 mice 19  0 0
+28 2 mice 19 1686074429 0 p 0 0
+28 4 special 19 1686074430 0 special localhost 0 1
+28 0 special 19 1686074430 0 localhost 0
+28 8 special 19  0 0
+28 2 special 19 1686074430 0 p 0 0
+28 4 card 10 1686074431 0 card localhost 0 1
+28 0 card 10 1686074431 0 localhost 0
+28 8 card 10  0 0
+28 2 card 10 1686074431 0 p 0 0
+28 4 mice 20 1686074432 0 mice localhost 0 1
+28 0 mice 20 1686074432 0 localhost 0
+28 8 mice 20  0 0
+28 2 mice 20 1686074432 0 p 0 0
+28 4 special 20 1686074433 0 special localhost 0 1
+28 0 special 20 1686074433 0 localhost 0
+28 8 special 20  0 0
+28 2 special 20 1686074433 0 p 0 0
+28 1 mice 17 1686075633 0 2
+28 1 card 4 1686075633 0 2
+28 1 special 2 1686075633 0 2
+28 1 card 1 1686075633 0 2
+28 1 mice 20 1686075633 0 2
+28 1 special 14 1686075633 0 2
+28 1 mice 1 1686075633 0 2
+28 1 card 5 1686075633 0 2
+28 1 special 20 1686075633 0 2
+28 1 mice 3 1686075633 0 2
+28 1 card 6 1686075633 0 2
+28 1 mice 5 1686075633 0 2
+28 1 mice 7 1686075633 0 2
+28 1 card 2 1686075633 0 2
+28 1 special 17 1686075633 0 2
+28 1 special 4 1686075633 0 2
+28 1 special 8 1686075633 0 2
+28 1 special 10 1686075633 0 2
+28 1 special 13 1686075633 0 2
+28 1 special 6 1686075633 0 2
+28 1 special 1 1686075633 0 2
+28 1 special 3 1686075633 0 2
+28 1 special 7 1686075633 0 2
+28 1 special 18 1686075633 0 2
+28 1 special 19 1686075633 0 2
+28 1 special 12 1686075633 0 2
+28 1 special 15 1686075633 0 2
+28 1 special 16 1686075635 0 2
+28 1 card 7 1686075636 0 2
+28 1 mice 4 1686075649 0 2
+28 1 mice 15 1686075657 0 2
+28 1 mice 9 1686075663 0 2
+28 1 mice 16 1686075665 0 2
+28 1 mice 6 1686075669 0 2
+28 1 mice 14 1686075669 0 2
+28 1 special 9 1686075671 0 2
+28 1 card 9 1686075671 0 2
+28 1 card 3 1686075671 0 2
+28 1 special 11 1686075675 0 2
+28 1 card 8 1686075675 0 2
+28 1 mice 12 1686075684 0 2
+28 1 mice 2 1686075685 0 2
+28 1 card 10 1686075695 0 2
+28 1 mice 10 1686075697 0 2
+28 1 mice 19 1686075699 0 2
+28 1 mice 8 1686075701 0 2
+28 1 mice 13 1686075702 0 2
+28 1 mice 18 1686075707 0 2
+28 1 special 5 1686075731 0 2
+28 1 mice 11 1686075735 0 2
+28 12 1686075735 1 1686075735 0 1686075735

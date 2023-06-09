@@ -1,0 +1,127 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: www.advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1685879937501
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1685879942834
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1685879943267
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: categories",
+                "infFile": "t4.inf",
+                "time": 1685879943689
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: search",
+                "infFile": "t5.inf",
+                "time": 1685879944006
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: home-page.html",
+                "infFile": "t6.inf",
+                "time": 1685879948937
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t7.inf",
+                "time": 1685879949813
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: 115181649",
+                "infFile": "t8.inf",
+                "time": 1685879950299
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: products",
+                "infFile": "t9.inf",
+                "time": 1685879950941
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: attributes",
+                "infFile": "t10.inf",
+                "time": 1685879951438
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: category-page.html",
+                "infFile": "t11.inf",
+                "time": 1685879951659
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: all_data",
+                "infFile": "t12.inf",
+                "time": 1685879953707
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: 27",
+                "infFile": "t13.inf",
+                "time": 1685879954186
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: product-page.html",
+                "infFile": "t14.inf",
+                "time": 1685879954757
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Submit Data: 414141",
+                "infFile": "t15.inf",
+                "time": 1685879955185
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "login",
+                "rawStartTime": 1685879948948,
+                "rawEndTime": 1685879950308,
+                "thinkTime": 0.0,
+                "wastedTime": 0.010861873626708985
+            },
+            {
+                "transactionName": "mice",
+                "rawStartTime": 1685879950339,
+                "rawEndTime": 1685879951660,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01643061637878418
+            },
+            {
+                "transactionName": "choos_mice",
+                "rawStartTime": 1685879951692,
+                "rawEndTime": 1685879954761,
+                "thinkTime": 0.0,
+                "wastedTime": 0.023821353912353517
+            },
+            {
+                "transactionName": "pay_mice",
+                "rawStartTime": 1685879954777,
+                "rawEndTime": 1685879955200,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005659580230712891
+            }
+        ]
+    }
+]

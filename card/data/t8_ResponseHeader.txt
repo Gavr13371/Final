@@ -1,0 +1,16 @@
+HTTP/1.1 200 
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 04 Jun 2023 13:12:14 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: 0
+Cache-control: no-store
+Set-Cookie: JSESSIONID=08B22B121D4D4D8171B0A2BDF6E3025C; Path=/order; HttpOnly
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+vary: accept-encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

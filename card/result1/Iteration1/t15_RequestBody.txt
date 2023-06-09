@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"Lenina","addressLine2":"","city":"Moscow","country":"fr","postal"
+"Code":"","state":1},"secustomerName":"Kirill Kiriillov","secustomerPhone":"89297578383","senum"
+"berOfProducts":2,"setransactionType":"SHIPPING_COST","sessionId":"08B22B121D4D4D8171B0A2BDF6E3"
+"025C"}"

@@ -1,0 +1,11 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(235): Connection to www.googletagmanager.com:443 closed after being inactive for 70 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(235): t=266199ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(235): t=266199ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(235): t=266336ms: Connected socket [0] from 192.168.1.140:5349 to 54.227.55.203:443 in 137 ms  	[MsgId: MMSG-26000]
+Action.c(235): t=266336ms: Trying to set SNI with servername www.advantageonlineshopping.com  	[MsgId: MMSG-26000]
+Action.c(235): t=266336ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
+Action.c(235): Error -27721: Step download timeout (120 seconds) has expired when downloading resource "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest"  	[MsgId: MERR-27721]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

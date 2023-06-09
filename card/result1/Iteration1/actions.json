@@ -1,0 +1,145 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: www.advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1685961433228
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1685961439017
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1685961439460
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: categories",
+                "infFile": "t4.inf",
+                "time": 1685961440489
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: search",
+                "infFile": "t5.inf",
+                "time": 1685961440806
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: home-page.html",
+                "infFile": "t6.inf",
+                "time": 1685961444692
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t7.inf",
+                "time": 1685961445565
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: 115181649",
+                "infFile": "t8.inf",
+                "time": 1685961446596
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: 115181649",
+                "infFile": "t9.inf",
+                "time": 1685961447310
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: 115181649",
+                "infFile": "t10.inf",
+                "time": 1685961448373
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: shoppingCart.html",
+                "infFile": "t11.inf",
+                "time": 1685961449013
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: GetAccountByIdRequest",
+                "infFile": "t12.inf",
+                "time": 1685961450144
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: GetAccountByIdNewRequest",
+                "infFile": "t13.inf",
+                "time": 1685961450663
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: 115181649",
+                "infFile": "t14.inf",
+                "time": 1685961451125
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: shippingcost",
+                "infFile": "t15.inf",
+                "time": 1685961451579
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: GetAccountPaymentPreferencesRequest",
+                "infFile": "t16.inf",
+                "time": 1685961452197
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: orderPayment-page.html",
+                "infFile": "t17.inf",
+                "time": 1685961453346
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Custom Request: GetCountriesRequest",
+                "infFile": "t18.inf",
+                "time": 1685961457264
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "login",
+                "rawStartTime": 1685961444700,
+                "rawEndTime": 1685961447324,
+                "thinkTime": 0.0,
+                "wastedTime": 0.026314496994018556
+            },
+            {
+                "transactionName": "busket",
+                "rawStartTime": 1685961447355,
+                "rawEndTime": 1685961449029,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013155698776245118
+            },
+            {
+                "transactionName": "checout",
+                "rawStartTime": 1685961449046,
+                "rawEndTime": 1685961457279,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05674338340759277
+            },
+            {
+                "transactionName": "order_payment",
+                "rawStartTime": 1685961457296,
+                "rawEndTime": 1685961457310,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            }
+        ]
+    }
+]

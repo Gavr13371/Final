@@ -1,0 +1,11 @@
+Start auto log messages stack - Iteration 15.	[MsgId: MMSG-10545]
+Action.c(41): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(41): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(44): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(44): t=3504320ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
+Action.c(44): t=3504491ms: Connected socket [0] from 192.168.1.140:7831 to 54.227.55.203:443 in 171 ms  	[MsgId: MMSG-26000]
+Action.c(44): t=3504493ms: Trying to set SNI with servername www.advantageonlineshopping.com  	[MsgId: MMSG-26000]
+Action.c(44): t=3504493ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
+Action.c(44): Error -27721: Step download timeout (120 seconds) has expired when downloading resource "https://www.advantageonlineshopping.com/"  	[MsgId: MERR-27721]
+End auto log messages stack.	[MsgId: MMSG-10544]
+

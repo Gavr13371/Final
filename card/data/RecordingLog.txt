@@ -1,0 +1,212 @@
+[API Trapper      (59d8:48a0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (4ee4:4444)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (1e1c:2690)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1e1c:453c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1e1c:453c)] Load Network Traffic Analyzers:
+[Network Analyzer (1e1c:453c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1e1c:453c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1e1c:453c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1e1c:453c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1e1c:453c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1e1c:453c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1e1c:453c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1e1c:  ac)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[API Trapper      ( 820: 29c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 108.177.14.94:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 173.194.73.84:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1e1c:13a8)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 64.233.165.94:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1e1c:13a8)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1e1c:28f0)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:28f0)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1e1c:264c)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:264c)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1e1c:  ac)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=113"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  1) Client -> Server @ : 469 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 913 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  1) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:4418)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:4418)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 213 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /vendor/requirejs/require.js"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 813 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 213 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 64.233.162.95:443   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (1e1c:  ac)] "GET /main.min.js"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 799 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:372c)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (1e1c:372c)] SSLAccept(ssl_id = 2276424153344 = 000002120573F900) Failed, ctx = 00000212056CAC40, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1e1c:372c)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 173.194.73.139:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1e1c:41fc)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (1e1c:41fc)] SSLAccept(ssl_id = 2276424361024 = 0000021205772440) Failed, ctx = 00000212056CAC40, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1e1c:41fc)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 215 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  5) Connection Terminated (by Client)
+[Web Request      (1e1c:  ac)] "GET /services.properties"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 800 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 839 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 6974 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:58d4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (1e1c:  ac)] "GET /css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 973 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:58d4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:5b90)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (1e1c:  ac)] "GET /css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  7) Client -> Server @ : 971 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 213 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:5b90)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 1078 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "POST /accountservice/ws/GetAccountConfigurationRequest"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 361 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 969 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  7) Server -> Client : 213 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 213 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:29a8)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:29a8)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 1570 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /catalog/api/v1/categories"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 821 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c: a8c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c: a8c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 4910 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /catalog/api/v1/deals/search?dealOfTheDay=true"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 841 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 783 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /app/tempFiles/popularProducts.json"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 919 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 212 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /app/views/home-page.html"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 886 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 213 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Client -> Server @ : 975 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 975 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Server -> Client : 213 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 213 bytes (SSL) (Service=HTTP)
+[User action                 ] StartTransactionEvent login [Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 1056 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "POST /accountservice/ws/AccountLoginRequest"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 420 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 1532 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /order/api/v1/carts/115181649"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 867 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 786 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "PUT /order/api/v1/carts/115181649"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 1063 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 648 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:1e84)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:1e84)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[User action                 ] EndTransactionEvent login [Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 64.233.165.94:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (1e1c:401c)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:401c)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1e1c:  ac)] "POST /service/update2/json?cup2key=13:3Q3NshxMQABD7gAaz6sQpmeRpjwwMkiyTW6wDLpSVmE&cup2hreq=72fdaa85d0ad3514d95b1fb7a99253cc05f42250afb68b9f18f4a2f399a63dbf"
+[Network Analyzer (1e1c:  ac)]   (Sid: 12) Client -> Server @ : 1300 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid: 12) Client -> Server @ : 8311 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid: 12) Server -> Client : 1149 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid: 12) Server -> Client : 954 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid: 12) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (1e1c:  ac)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer (1e1c:  ac)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (1e1c:  ac)]   (Sid:  2) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent busket [Web Request      (1e1c:  ac)] "GET /order/api/v1/carts/115181649"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 838 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 787 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /app/views/shoppingCart.html"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 725 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 1923 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /css/images/Master_credit.png"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 792 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 2049 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /css/images/SafePay.png"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 786 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1e1c:  ac)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 5048 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:5b64)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:5b64)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[User action                 ] EndTransactionEvent busket [User action                 ] StartTransactionEvent checout [Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 994 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "POST /accountservice/ws/GetAccountByIdRequest"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 428 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 2007 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 1000 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "POST /accountservice/ws/GetAccountByIdNewRequest"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 434 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 1942 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /order/api/v1/carts/115181649"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 846 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 788 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "POST /order/api/v1/shippingcost/"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 1206 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 674 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 1022 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "POST /accountservice/ws/GetAccountPaymentPreferencesRequest"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 456 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 973 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /app/order/views/orderPayment-page.html"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 744 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 1372 bytes (SSL) (Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /css/images/Bell.png"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 799 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "POST /accountservice/ws/GetCountriesRequest"   
+[Network Analyzer (1e1c:  ac)]   (Sid: 13) Client -> Server @ : 1329 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 1717 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid: 13) Server -> Client : 5004 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (1e1c:  ac)] "GET /css/images/Check.png"   
+[Network Analyzer (1e1c:  ac)]   (Sid: 13) Client -> Server @ : 800 bytes (SSL)(Service=HTTP)
+[Web Request      (1e1c:  ac)] "GET /css/images/User.jpg"   
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Client -> Server @ : 783 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:453c)] Address lookup for DESKTOP-TQO92TJ = 192.168.1.140
+[Network Analyzer (1e1c:  ac)]   (Sid:  8) Server -> Client : 5292 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid: 13) Server -> Client : 3547 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:3588)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:453c)] Request Connection: Remote Server @ 64.233.162.95:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1e1c:3588)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1e1c:2d0c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1e1c:2d0c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1e1c:  ac)] "GET /css/images/Shipex.png"   
+[Network Analyzer (1e1c:  ac)]   (Sid: 14) Client -> Server @ : 785 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1e1c:2394)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (1e1c:2394)] SSLAccept(ssl_id = 2276427653392 = 0000021205A96110) Failed, ctx = 00000212056CAC40, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1e1c:2394)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1e1c:  ac)]   (Sid: 14) Server -> Client : 2588 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1e1c:  ac)]   (Sid: 16) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent checout [API Trapper      (25d8:3a64)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[User action                 ] StartTransactionEvent order_payment [User action                 ] EndTransactionEvent order_payment 
